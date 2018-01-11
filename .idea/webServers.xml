@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dcd2fe92-7eba-47bc-98c7-39ecbcb49802" name="Vag Mach" url="http://192.168.33.10">
+        <fileTransfer host="localhost" port="2222" rootFolder="/home/vagrant/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

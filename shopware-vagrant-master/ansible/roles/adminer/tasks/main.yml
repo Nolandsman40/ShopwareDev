@@ -1,0 +1,5 @@
+---
+- name: Copy adminer
+  copy:
+    src: "adminer-4.2.5-mysql-en.php"
+    dest: "{{ apache_root }}/adminer.php"

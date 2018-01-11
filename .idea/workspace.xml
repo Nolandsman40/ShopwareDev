@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a9970d4-191a-4e49-8067-ca6bc9896642" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/shopware/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Doctrine/Common/Proxy/AbstractProxyFactory.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Doctrine/Common/Proxy/AbstractProxyFactory.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Auth/Adapter/DbTable.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Auth/Adapter/DbTable.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Adapter.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Adapter.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Manager.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Manager.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Manager.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Manager.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Namespace.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Namespace.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Resource.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Resource.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Test/Controller/TestCase.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Test/Controller/TestCase.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config/Adapter/DbTable.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config/Adapter/DbTable.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Controller/Action.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Controller/Action.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Event/SubscriberInterface.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Event/SubscriberInterface.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Singleton.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Singleton.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Template/Default.php" afterPath="$PROJECT_DIR$/shopware/engine/Library/Enlight/Template/Default.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Shopware/Application.php" afterPath="$PROJECT_DIR$/shopware/engine/Shopware/Application.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Shopware/Components/Session/PdoSessionHandler.php" afterPath="$PROJECT_DIR$/shopware/engine/Shopware/Components/Session/PdoSessionHandler.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/engine/Shopware/Controllers/Backend/ExtJs.php" afterPath="$PROJECT_DIR$/shopware/engine/Shopware/Controllers/Backend/ExtJs.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/tests/Functional/Components/Api/UserTest.php" afterPath="$PROJECT_DIR$/shopware/tests/Functional/Components/Api/UserTest.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/tests/Unit/Bundle/MediaBundle/MediaExtensionMappingServiceTest.php" afterPath="$PROJECT_DIR$/shopware/tests/Unit/Bundle/MediaBundle/MediaExtensionMappingServiceTest.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/tests/Unit/Components/QueryAliasMapperTest.php" afterPath="$PROJECT_DIR$/shopware/tests/Unit/Components/QueryAliasMapperTest.php" />
+      <change beforePath="$PROJECT_DIR$/shopware/tests/Unit/Core/sArticlesTest.php" afterPath="$PROJECT_DIR$/shopware/tests/Unit/Core/sArticlesTest.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ListInventorySupplySample.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/ListInventorySupplySample.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmazonMWSTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/AmazonMWSTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APICallTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/APICallTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding>
+                <element signature="e#7#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/tests/Functional/Components/Api/UserTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="385" column="7" lean-forward="false" selection-start-line="385" selection-start-column="7" selection-end-line="385" selection-end-column="7" />
+              <folding>
+                <element signature="e#991#1037#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Article.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Controllers/Api/Article.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleU.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Components/Api/Resource/ArticleU.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#52#106#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/PluginTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#46#102#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserCredsTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/UserCredsTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#369#611#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListInventorySupplyResponse.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Mock/ListInventorySupplyResponse.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conta</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shopware" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shopware-vagrant-master/Vagrantfile" />
+        <option value="$PROJECT_DIR$/shopware/tests/Unit/Components/QueryAliasMapperTest.php" />
+        <option value="$PROJECT_DIR$/shopware/tests/Unit/Bundle/MediaBundle/MediaExtensionMappingServiceTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Readme.md" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Event/SubscriberInterface.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SwagExtendCustomer/Subscriber/ExtendCustomer.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Auth/Adapter/DbTable.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Manager.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Cron/Adapter.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Shopware/Controllers/Backend/ExtJs.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Controller/Action.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SwagLastRegistrationsWidget/Controllers/Backend/SwagLastRegistrationsWidget.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Doctrine/Common/Proxy/AbstractProxyFactory.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Shopware/Components/Session/PdoSessionHandler.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Singleton.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Resource.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Manager.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Snippet/Namespace.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Components/Test/Controller/TestCase.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Shopware/Application.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config/Adapter/DbTable.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Template/Default.php" />
+        <option value="$PROJECT_DIR$/shopware/engine/Library/Enlight/Config.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/PluginStruct.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SwagLastRegistrationsWidget/SwagLastRegistrationsWidget.php" />
+        <option value="$PROJECT_DIR$/shopware/tests/Api/GenerateArticleImagesTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/services.xml" />
+        <option value="$PROJECT_DIR$/shopware/tests/Unit/Core/sArticlesTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/SolutoAmazonSync.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/cronjob.xml" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/config.xml" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/plugin.xml" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/UserCredsTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/Controllers/Backend/PluginStruct.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/menu.xml" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/AmazonMWSTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Client.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/GetServiceStatusSample.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/ResponseHeaderMetadata.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/.config.inc.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/ListInventorySupplySample.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/InventorySupply.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Mock/ListInventorySupplyResponse.xml" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/Test.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/PluginTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/APICallTest.php" />
+        <option value="$PROJECT_DIR$/shopware/tests/Functional/Components/Api/UserTest.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Controllers/Api/Article.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Components/Api/Resource/Article.php" />
+        <option value="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Components/Api/Resource/ArticleU.php" />
+        <option value="$PROJECT_DIR$/shopware/.github/test" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1338" />
+    <option name="y" value="33" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shopware Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shopware Dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Shopware Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shopware Dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shopware" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopware" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.APICallTest">
+    <configuration name="ListInventorySupplySample.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://192.168.33.10/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/ListInventorySupplySample.php" />
+    <configuration name="APICallTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SolutoAmazonDataSync\Tests\APICallTest" file="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/APICallTest.php" scope="Class" />
+    </configuration>
+    <configuration name="PluginTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SolutoAmazonDataSync\Tests\PluginTest" file="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/PluginTest.php" scope="Class" />
+    </configuration>
+    <configuration name="UserCredsTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SolutoAmazonDataSync\Tests\UserCredsTest" file="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/UserCredsTest.php" scope="Class" />
+    </configuration>
+    <configuration name="GetServiceStatusSample.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/GetServiceStatusSample.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.PluginTest" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.UserCredsTest" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.GetServiceStatusSample.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ListInventorySupplySample.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.APICallTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.APICallTest" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.UserCredsTest" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.PluginTest" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ListInventorySupplySample.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.GetServiceStatusSample.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a9970d4-191a-4e49-8067-ca6bc9896642" name="Default" comment="" />
+      <created>1513671857286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513671857286</updated>
+      <workItem from="1513671859336" duration="54000" />
+      <workItem from="1513671967963" duration="16226000" />
+      <workItem from="1513755286143" duration="18179000" />
+      <workItem from="1513841482581" duration="21372000" />
+      <workItem from="1513929939746" duration="5014000" />
+      <workItem from="1515397927721" duration="1805000" />
+      <workItem from="1515404122901" duration="17529000" />
+      <workItem from="1515482778144" duration="21030000" />
+      <workItem from="1515568796275" duration="17608000" />
+      <workItem from="1515655774054" duration="8805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="APICallTest - 2018.01.10 at 08h 48m 48s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 08h 48m 58s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 08h 49m 04s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 08h 58m 34s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 09h 53m 56s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 10h 07m 12s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 11h 52m 44s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.10 at 16h 09m 14s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="APICallTest - 2018.01.11 at 08h 41m 20s.xml">
+      <configuration name="APICallTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UserCredsTest - 2018.01.10 at 08h 46m 02s.xml">
+      <configuration name="UserCredsTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127622000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24733475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3228261" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27608696" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34673914" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29891303" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32359308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/ListInventorySupplyRequest.php</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shopware/engine/Library/Enlight/Config/Adapter/DbTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/engine/Library/Enlight/Config/Writer/Writer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/engine/Library/Enlight/Event/Handler/Default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/Subscriber/ApiSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/engine/Library/Enlight/Event/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/engine/Library/Enlight/Template/Default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/PluginStruct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SwagLastRegistrationsWidget/SwagLastRegistrationsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Api/fixtures/test-bild.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Api/ArticleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="71" column="20" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Api/CategoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Api/GenerateArticleImagesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/SolutoAmazonDataSync.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Unit/Core/sArticlesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Unit/Plugin/Frontend/InputFilter/FilterTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/Resources/views/backend/index/soluto_amazon_sync/store/account.js" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/Resources/views/backend/index/soluto_amazon_sync/model/account.js" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/Controllers/Backend/SolutoAmazonSync.php" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/Resources/config.xml" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/plugin.xml" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonSync/SolutoAmazonSync.php" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/tests/PluginTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/PluginStruct/Controllers/Backend/PluginStruct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SwagExtendCustomer/Subscriber/ExtendCustomer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/cronjob.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/services.xml" />
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="68" lean-forward="false" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Resources/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Subscriber/Frontend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/ResponseHeaderMetadata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="146" column="5" lean-forward="false" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/InventorySupplyList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="3" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/.config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/GetServiceStatusSample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="78" column="33" lean-forward="false" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/ListInventorySupplyResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/SellerSkuList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/ListInventorySupplyRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="52" column="71" lean-forward="false" selection-start-line="52" selection-start-column="71" selection-end-line="52" selection-end-column="71" />
+          <folding>
+            <element signature="n#isSetMWSAuthToken#0;n#FBAInventoryServiceMWS_Model_ListInventorySupplyRequest#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Model/InventorySupply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="172" column="54" lean-forward="false" selection-start-line="172" selection-start-column="54" selection-end-line="172" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Mock/ListInventorySupplyResponse.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/FBAInventoryServiceMWS/Samples/ListInventorySupplySample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/UserCredsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#369#611#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/PluginTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#102#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/AmazonMWSTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/tests/APICallTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <element signature="e#7#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/tests/Functional/Components/Api/UserTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="385" column="7" lean-forward="false" selection-start-line="385" selection-start-column="7" selection-end-line="385" selection-end-column="7" />
+          <folding>
+            <element signature="e#991#1037#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Controllers/Api/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/custom/plugins/SolutoAmazonDataSync/Components/Api/Resource/ArticleU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#106#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopware/.github/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27034122" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

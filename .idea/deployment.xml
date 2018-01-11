@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Vag Mach">
+    <serverData>
+      <paths name="Vag Mach">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/shopware" local="$PROJECT_DIR$/shopware" web="/shopware" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
